@@ -1,6 +1,5 @@
 #include <GL/glut.h>
 #include <GL/GLU.h>
-#include "SOIL.h"
 #include <cstdlib>
 
 static float angle = 0;
